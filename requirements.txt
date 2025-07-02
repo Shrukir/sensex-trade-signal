@@ -1,0 +1,7 @@
+yfinance
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+ta
+requests
